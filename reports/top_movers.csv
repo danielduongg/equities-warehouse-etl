@@ -1,0 +1,7 @@
+ticker,sector,trade_date,pct_change,close,rsi_14
+JPM,Financials,2024-12-31,3.83,263.81,61.6
+TSLA,Consumer Cyclical,2024-12-31,1.94,330.94,34.6
+MSFT,Technology,2024-12-31,0.55,739.81,72.5
+XOM,Energy,2024-12-31,0.2,572.29,71.3
+AAPL,Technology,2024-12-31,0.19,308.43,23.2
+JNJ,Healthcare,2024-12-31,-0.01,161.72,35.3
